@@ -1,0 +1,24 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:21:29"}
+{"level":"error","message":"readRestaurants Query error\n: {}","timestamp":"2024-04-01 13:22:04"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:24:00"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:24:01"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:24:03"}
+{"level":"error","message":"readRestaurants Query error\n: {}","timestamp":"2024-04-01 13:24:09"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:24:45"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:25:35"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:28:17"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:29:19"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:31:20"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:33:08"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:33:41"}
+{"level":"error","message":"readRestaurants Query error\n: {\"code\":\"ERR_HTTP_HEADERS_SENT\"}","timestamp":"2024-04-01 13:33:46"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:34:15"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:34:25"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:35:28"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:35:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:35:30"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:36:51"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:37:16"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 13:44:51"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 14:47:46"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-04-01 15:11:30"}
